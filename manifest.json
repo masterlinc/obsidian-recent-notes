@@ -1,0 +1,10 @@
+{
+  "id": "recent-notes",
+  "name": "最近修改",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "在侧边栏按修改时间列出最近的笔记，按日期分组、可搜索、实时刷新。",
+  "author": "local",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
